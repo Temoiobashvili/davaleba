@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'alk_life';
-  src: url(alk_life.otf);
+  src: url(../assets/fonts/alk_life.otf);
  }
 
 * {
@@ -86,20 +86,153 @@ main {
 }
 
 .tamta-info {
-  padding-top: 50px;
   max-width: 380px;
-  max-height: 300px;;
+  height: 110px;
   margin-left: 130px;
+  display: inline-block;
+  margin-top: 50px;
 }
 
 .tamta-link {
   color:#717276;
-  margin-top: 50px;
   font-size: 24px;
 }
 
 .geo-font {
   font-family: 'alk_life', cursive;
+  margin-top: 8px;
+  font-size: 24px;
 }
+
+span {
+  display: block;
+}
+
+.price-one {
+  margin-top: 8px;
+  color:#000000;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.eka-info {
+  display: inline-block;
+  margin-left: 150px;
+  align-items: center;
+}
+
+.h-eka-info {
+ margin-top: 50px;
+}
+
+.infos-for-all {
+  align-items: center;
+  display: flex;
+}
+
+.geo-font-2 {
+  margin-top: 8px;
+  font-family: 'alk_life', cursive;
+  font-size: 24px;
+}
+
+.price-two {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.zaira-info {
+  margin-left: 38px;
+}
+
+.h-zaira-info {
+  font-size: 24px;
+  color:#717276;
+}
+
+.geo-font-3 {
+  font-family: 'alk_life', cursive;
+  margin-top: 8px;
+}
+
+.price-three {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.main-div-2 {
+  margin-left: 130px;
+  margin-top: 160px;
+  align-items: center;
+}
+
+.satauri-2 {
+  display: flex;
+  align-items: center;
+}
+
+.h-satauri-2 {
+  margin-left: 40px;
+  color:#717276;
+}
+
+.girl-photo1 {
+  margin-top: 40px;
+}
+
+.men-photo1 {
+  margin: 0 20px;
+}
+
+.girl-photo2 {
+  margin-right: 20px;
+}
+
+.div-footer {
+  height: 170px;
+  background-color:#D9D9D9;
+  padding-left: 130px;
+  padding-top: 71px;
+  display: flex;
+  justify-content: space-between;
+  margin-top: 160px;
+}
+
+.footer-nav {
+  max-width: 200px;
+}
+
+.contact {
+  display: block;
+  font-family: 'alk_life', cursive;
+}
+
+.shops {
+  display: block;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-family: 'alk_life', cursive;
+  font-size: 24px;
+}
+
+.questions {
+  font-family: 'alk_life', cursive;
+}
+
+.instagram-logo {
+  margin-right: 130px;
+}
+
+.linkdin-logo {
+  margin: 0 21px;
+}
+
+.facebook-logo {
+  margin: 0 21px;
+}
+
+
+
+
 
 
